@@ -18,7 +18,7 @@ Usage
 
 1. Create an instance of Authenticator class to authenticate your session
 
-        Authenticator auth = new Authenticator("http://alm-url","port","alm_domain","alm_project");
+        Authenticator auth = new Authenticator("alm-host","port","alm_domain","alm_project");
 
 2. Login
 
