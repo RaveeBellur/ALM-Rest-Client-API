@@ -1,7 +1,7 @@
-white-bear
+whitebear
 ==========
 
-This a simple Java wrapper API to connect to HP ALM using REST service
+A simple Java wrapper API to connect to HP ALM using REST service
 
 Features
 ========
